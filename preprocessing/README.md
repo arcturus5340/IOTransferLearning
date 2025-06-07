@@ -22,3 +22,10 @@ Blue_Waters_remove dups.ipynb
 - from: blue_waters_posix_with_paths_no_negative_outliers_no_time.csv
 - to:   blue_waters_posix_with_paths_no_negative_outliers_no_time_no_dups.csv
 
+Blue_Waters_compute_concurr_procs.ipynb
+- from: blue_waters_posix_with_paths_no_negative_outliers.csv
+-   to: blue_waters_posix_with_paths_no_negative_outliers_concurr_procs.csv
+
+Blue_Waters_compute_MAE.ipynb
+- from: blue_waters_posix_with_paths_no_negative_outliers_no_time.csv
+-   to: blue_waters_posix_with_paths_no_negative_outliers_no_time_witherrors.csv
