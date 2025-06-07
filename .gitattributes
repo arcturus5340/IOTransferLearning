@@ -1,6 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-data/blue_waters_posix.csv filter=lfs diff=lfs merge=lfs -text
-data/blue_waters_posix_all_no_outliers.csv filter=lfs diff=lfs merge=lfs -text
-data/blue_waters_posix_no_outliers_4_16_48_64_144_240_nprocs.csv filter=lfs diff=lfs merge=lfs -text
 data/blue_waters_posix_with_paths.csv filter=lfs diff=lfs merge=lfs -text

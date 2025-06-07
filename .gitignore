@@ -1,7 +1,10 @@
 # Generated data
 data/blue_waters_posix_no_outliers.csv
 data/blue_waters_posix_no_outliers_4_16_48_64_144_240_nprocs.csv
+data/blue_waters_posix_with_paths_no_negative_outliers_no_time_no_dups.csv
+data/blue_waters_posix_with_paths_no_negative_outliers_no_time.csv
 data/blue_waters_posix_with_paths_no_negative_outliers.csv
+data/blue_waters_posix_with_paths_no_outliers_no_time.csv
 data/blue_waters_posix_with_paths_no_outliers.csv
 
 # Byte-compiled / optimized / DLL files
