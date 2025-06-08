@@ -18,7 +18,7 @@ Blue_Waters_remove_time.ipynb
 -   to: blue_waters_posix_with_paths_no_negative_outliers_no_time.csv
         blue_waters_posix_with_paths_no_outliers_no_time.csv
 
-Blue_Waters_remove dups.ipynb
+Blue_Waters_remove_dups.ipynb
 - from: blue_waters_posix_with_paths_no_negative_outliers_no_time.csv
 - to:   blue_waters_posix_with_paths_no_negative_outliers_no_time_no_dups.csv
 
@@ -29,3 +29,6 @@ Blue_Waters_compute_concurr_procs.ipynb
 Blue_Waters_compute_MAE.ipynb
 - from: blue_waters_posix_with_paths_no_negative_outliers_no_time.csv
 -   to: blue_waters_posix_with_paths_no_negative_outliers_no_time_witherrors.csv
+
+
+Theta Dataset was generated from resources of the Argonne Leadership Computing Facility, which is a DOE Office of Science User Facility supported under Contract DE-AC02-06CH11357.
