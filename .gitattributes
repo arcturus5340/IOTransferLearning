@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 data/blue_waters_posix_with_paths.csv filter=lfs diff=lfs merge=lfs -text
+interpretability/captum/blue_waters_captum_dl_result.csv filter=lfs diff=lfs merge=lfs -text
+interpretability/captum/blue_waters_captum_ig_result.csv filter=lfs diff=lfs merge=lfs -text
