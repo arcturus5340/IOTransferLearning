@@ -3,3 +3,4 @@
 data/blue_waters_posix_with_paths.csv filter=lfs diff=lfs merge=lfs -text
 interpretability/captum/blue_waters_captum_dl_result.csv filter=lfs diff=lfs merge=lfs -text
 interpretability/captum/blue_waters_captum_ig_result.csv filter=lfs diff=lfs merge=lfs -text
+data/theta_posix_with_apps_no_negative_outliers_no_time.csv filter=lfs diff=lfs merge=lfs -text

@@ -8,6 +8,7 @@ data/blue_waters_posix_with_paths_no_negative_outliers_concurr_procs.csv
 data/blue_waters_posix_with_paths_no_negative_outliers.csv
 data/blue_waters_posix_with_paths_no_outliers_no_time.csv
 data/blue_waters_posix_with_paths_no_outliers.csv
+data/theta_posix_with_apps_no_negative_outliers_no_time_witherrors.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
